@@ -1,6 +1,5 @@
 Eksempel dokument.
 
-En kort tekst...
-
+Fyn er fin
 
 En anden kort tekst
