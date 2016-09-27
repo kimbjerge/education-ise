@@ -3,3 +3,5 @@ Eksempel dokument.
 Fyn er fin
 
 En anden kort tekst
+
+Kurt er stor
