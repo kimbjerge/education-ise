@@ -1,1 +1,3 @@
 MyDoc3 in branch1
+
+Changing myDoc
